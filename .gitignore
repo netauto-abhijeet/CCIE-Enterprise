@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# PDFs - large reference files, stored locally only
+*.pdf
+
+# Common
+*.log
+__pycache__/
+*.pyc
+.env
