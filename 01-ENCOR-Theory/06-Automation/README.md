@@ -1,0 +1,3 @@
+# 06-Automation
+
+Notes and configs for this topic.
